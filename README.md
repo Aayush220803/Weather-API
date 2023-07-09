@@ -10,7 +10,6 @@ Features:
 - Forecast: Users can view the weather forecast for the upcoming days, including high and low temperatures.
 - Weather icons: The application utilizes weather icons to visually represent the current weather conditions, making it easy for users to understand the forecast at a glance.
 - Search functionality: Users can search for weather information by entering a city name or zip code.
-- Unit conversion: The application supports the conversion between Celsius and Fahrenheit, allowing users to view temperatures in their preferred unit.
 - User-friendly interface: The user interface is designed to be intuitive and user-friendly, providing a seamless and enjoyable weather browsing experience.
 
 Dependencies:
